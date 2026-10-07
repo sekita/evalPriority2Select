@@ -12,9 +12,6 @@ evalPriority2Select_github/
 ├── README.md
 ├── README_jp.md
 ├── .gitignore
-├── .github/
-│   └── workflows/
-│       └── test.yml
 ├── docs/
 │   ├── evalTable_format.md
 │   ├── priority_format.md
