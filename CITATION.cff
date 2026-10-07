@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata in this file."
 title: "evalPriority2Select"
 type: software
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-07"
 license: MIT
 authors:
@@ -12,7 +12,11 @@ authors:
     orcid: "https://orcid.org/0009-0002-4215-5003"
 repository-code: "https://github.com/sekita/evalPriority2Select"
 abstract: >-
-A command-line tool that takes an evaluation table (`tableE`) and a priority table (`tableP`), both written in a heading-based format similar to Markdown headings, and outputs a selection tree in the same format for conversion into a diagram using `heading2diagram.py`. The tree progressively narrows down the available options by evaluating items in priority order.
+  A command-line tool that takes an evaluation table (`tableE`) and a
+  priority table (`tableP`), both written in a heading-based format similar
+  to Markdown headings, and outputs a selection tree in the same format for
+  conversion into a diagram using `heading2diagram.py`. The tree progressively
+  narrows down the available options by evaluating items in priority order.
 keywords:
   - evaluation table
   - priority table
